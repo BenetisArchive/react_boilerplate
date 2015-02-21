@@ -1,5 +1,4 @@
 var reload = require('browser-sync').reload;
-var notify = require("gulp-notify");
 var sourcemaps = require('gulp-sourcemaps');
 var minify_css = require('gulp-minify-css');
 var lazypipe = require('lazypipe');
